@@ -8,8 +8,11 @@ By using `Webcam` and `Ｍicrophone`， and of cause, `Internet`.
 
 ### The key techniques we gonna use
 
+* Decentralization
 * Video Live Streaming
+* Facial Detection (for swapping or hiding)
 * Noise Depression
+* Voice Changing
 
 ### What we need to care about
 
