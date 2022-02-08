@@ -4,15 +4,12 @@ Let anyone who has Internet can enjoy parties.
 
 ### How do we make it happen?
 
-By using `Webcam` and `Ｍicrophone`， and of cause, `Internet`.
+By using `Ｍicrophone`，and of cause, `Internet`.
 
 ### The key techniques we gonna use
 
-* Decentralization
-* Video Live Streaming
-* Facial Detection (for swapping or hiding)
+* Audio Live Streaming
 * Noise Depression
-* Voice Changing
 
 ### What we need to care about
 
